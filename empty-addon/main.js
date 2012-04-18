@@ -1,0 +1,1 @@
+dump("[PERF][" + new Date().getTime() + "] Addon running\n");
